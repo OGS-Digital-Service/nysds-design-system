@@ -4,7 +4,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: auto;
-    src: url("../fonts/fontawesome/fa-regular-400.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/OGS-Digital-Service/nysds-design-system@main/fonts/fontawesome/fa-regular-400.ttf") format("truetype");
     font-display: swap; }
   
     @font-face {
@@ -12,5 +12,5 @@
       font-style: normal;
       font-weight: 900;
       font-display: auto;
-      src: url("../fonts/fontawesome/fa-solid-900.ttf") format("truetype");
+      src: url("https://cdn.jsdelivr.net/gh/OGS-Digital-Service/nysds-design-system@main/fonts/fontawesome/fa-solid-900.ttf") format("truetype");
       font-display: swap;}
